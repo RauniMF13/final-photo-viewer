@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">final-photo-viewer</string>
+    <string name="app_header">Photo App</string>
+    <string name="button_label">Take Photo</string>
+    <string name="imageview_one_label">Recent Photo</string>
+    <string name="imageview_two_label">Previous photo</string>
+</resources>
